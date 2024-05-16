@@ -15472,7 +15472,7 @@
                     }),
                     (0, Ln.jsx)(Yn, {
                       id: "Right",
-                      children: (0, Ln.jsx)(_n, { src: tr, alt: "hero-image" }),
+                      children: (0, Ln.jsx)(_n, { src: tr.substring(1), alt: "hero-image" }),
                     }),
                   ],
                 }),
